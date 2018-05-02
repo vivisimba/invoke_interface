@@ -1,0 +1,2 @@
+[04-23 21:05] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 21:05] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3 HTTP/1.1" 403 62

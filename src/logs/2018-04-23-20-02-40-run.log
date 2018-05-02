@@ -1,0 +1,302 @@
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "GET /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities HTTP/1.1" 200 None
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/359e63e5-16ec-418c-b4a4-ebc9a9ce52b3 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 359e63e5-16ec-418c-b4a4-ebc9a9ce52b3 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/3807e872-ce94-4641-a7c7-acdc7b9f7f48 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 3807e872-ce94-4641-a7c7-acdc7b9f7f48 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/ec056247-d8c8-4a4c-927e-1608e6ebee22 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil ec056247-d8c8-4a4c-927e-1608e6ebee22 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/8df387fb-4a92-4b36-ba54-3ff6782c0e2b HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 8df387fb-4a92-4b36-ba54-3ff6782c0e2b has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/13d32ced-f3a3-4ad5-b2b7-18ab4886eb1b HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 13d32ced-f3a3-4ad5-b2b7-18ab4886eb1b has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/a36d08a7-6952-4d17-8947-71a4f2e5c258 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil a36d08a7-6952-4d17-8947-71a4f2e5c258 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/17d61caf-1534-42e2-8723-7631c148621d HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 17d61caf-1534-42e2-8723-7631c148621d has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/96e3426f-1c82-45a0-89d2-3acea5a05932 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 96e3426f-1c82-45a0-89d2-3acea5a05932 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/291ad07f-9374-46f1-ae2e-fc48c6009e75 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 291ad07f-9374-46f1-ae2e-fc48c6009e75 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/c8dc04cf-b860-4599-9d90-33059da2a9ec HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil c8dc04cf-b860-4599-9d90-33059da2a9ec has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/d4cd547e-a4ab-4c00-94ce-d05a883113d6 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil d4cd547e-a4ab-4c00-94ce-d05a883113d6 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/6e6a5a8e-357b-43ea-b805-84e28ed4afa3 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 6e6a5a8e-357b-43ea-b805-84e28ed4afa3 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/1a8c1f57-bdb3-4f50-8b7f-fdc1f302f252 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 1a8c1f57-bdb3-4f50-8b7f-fdc1f302f252 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/622e7fd1-d53d-44c6-a41e-024db0261bd9 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 622e7fd1-d53d-44c6-a41e-024db0261bd9 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/9260b402-dfdd-416a-a237-8e081fb00a69 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 9260b402-dfdd-416a-a237-8e081fb00a69 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/5e21c1df-81a6-4f29-9923-0c7d50c2c6ef HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 5e21c1df-81a6-4f29-9923-0c7d50c2c6ef has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/0992c30e-1be3-490d-afc1-f76c5db08c58 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 0992c30e-1be3-490d-afc1-f76c5db08c58 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/26da8faa-f986-450f-88d4-945232d716d0 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 26da8faa-f986-450f-88d4-945232d716d0 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/0fb24edf-e762-47c7-bbc4-0110147e79bb HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 0fb24edf-e762-47c7-bbc4-0110147e79bb has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2dd2170f-049b-499c-93cc-a869bfdd214e HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2dd2170f-049b-499c-93cc-a869bfdd214e has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/a735131a-b808-40c9-99a1-ce55a39dbc44 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil a735131a-b808-40c9-99a1-ce55a39dbc44 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/f4fec827-ecb5-49d7-aaca-47d40247a0a1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil f4fec827-ecb5-49d7-aaca-47d40247a0a1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/96abe142-6712-4367-bd00-5d796d740df7 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 96abe142-6712-4367-bd00-5d796d740df7 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/e8f3587c-0ef7-4409-8940-dde4ccef5649 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil e8f3587c-0ef7-4409-8940-dde4ccef5649 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/d0eab8c9-73d3-4407-ac30-1fabb64d361f HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil d0eab8c9-73d3-4407-ac30-1fabb64d361f has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/cf5205a3-713f-49fa-91ce-e361055915c1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil cf5205a3-713f-49fa-91ce-e361055915c1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/30f28744-933b-45cc-bb54-08789dceabf2 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 30f28744-933b-45cc-bb54-08789dceabf2 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/4fc7608b-376c-4ca4-a3e0-6422774619b3 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 4fc7608b-376c-4ca4-a3e0-6422774619b3 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/3c402f82-7c61-42ca-b3a6-396e6005cbc1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 3c402f82-7c61-42ca-b3a6-396e6005cbc1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/8b5ede5d-a233-4589-adcf-48a8fac9f61f HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 8b5ede5d-a233-4589-adcf-48a8fac9f61f has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/ad1dbae7-4685-49d4-a157-37da90a523b5 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil ad1dbae7-4685-49d4-a157-37da90a523b5 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/032f1825-463a-44e2-83b1-6885c38557bd HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 032f1825-463a-44e2-83b1-6885c38557bd has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/fa6cf4a0-259d-4dbd-8d17-d229e420a979 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil fa6cf4a0-259d-4dbd-8d17-d229e420a979 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/12c65d54-cfea-434c-8767-4da6926e8809 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 12c65d54-cfea-434c-8767-4da6926e8809 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/9e895c11-c06c-4515-afed-7a3f5acba0ba HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 9e895c11-c06c-4515-afed-7a3f5acba0ba has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/abe51219-b985-4b1c-a6f0-55a35468e74f HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil abe51219-b985-4b1c-a6f0-55a35468e74f has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/e5866e05-c237-4d1d-bff5-8055f3e00d4a HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil e5866e05-c237-4d1d-bff5-8055f3e00d4a has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/3b874919-aa2c-4b84-a672-33bf382e3bb7 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 3b874919-aa2c-4b84-a672-33bf382e3bb7 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2952d6f8-4b9e-4f91-89fa-089958ec7ad2 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2952d6f8-4b9e-4f91-89fa-089958ec7ad2 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/b3f3318b-3909-4341-b13b-b081db7e4214 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil b3f3318b-3909-4341-b13b-b081db7e4214 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/0ffd116d-ca69-404f-951b-ebb0cfc63043 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 0ffd116d-ca69-404f-951b-ebb0cfc63043 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/fb0dbd3c-3296-43bf-ae02-808081d72987 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil fb0dbd3c-3296-43bf-ae02-808081d72987 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/ecc71798-efec-4ff2-960e-6fa56fd9fba7 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil ecc71798-efec-4ff2-960e-6fa56fd9fba7 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/c995c460-1dcb-441a-94d6-0d04a2402352 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil c995c460-1dcb-441a-94d6-0d04a2402352 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/d11e5536-8343-4e38-8079-9007b516c100 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil d11e5536-8343-4e38-8079-9007b516c100 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/7d67e9a2-18d3-4e2f-ac46-2f77f64a00d4 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 7d67e9a2-18d3-4e2f-ac46-2f77f64a00d4 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/7564c2e6-1442-4724-b30a-e72678ed9ab9 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 7564c2e6-1442-4724-b30a-e72678ed9ab9 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/5db36ce2-95b9-430d-80c6-061af999ae09 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 5db36ce2-95b9-430d-80c6-061af999ae09 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/91da252f-75f7-415f-9428-a619a76097c9 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 91da252f-75f7-415f-9428-a619a76097c9 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/9d928878-fb33-4036-901f-6e870868a831 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 9d928878-fb33-4036-901f-6e870868a831 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/f6d1d62d-44e9-4834-8dff-23a9f66bac56 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil f6d1d62d-44e9-4834-8dff-23a9f66bac56 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/b467faba-fab2-4f93-a4a9-9ff647d0eeed HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil b467faba-fab2-4f93-a4a9-9ff647d0eeed has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/b1cd0a0f-d059-49cb-ae77-e1a7c229baa1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil b1cd0a0f-d059-49cb-ae77-e1a7c229baa1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/d610557d-bb76-4963-8df0-5aa40c763d47 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil d610557d-bb76-4963-8df0-5aa40c763d47 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/5b29d5e2-0dcf-498a-acf0-b5d54427de14 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 5b29d5e2-0dcf-498a-acf0-b5d54427de14 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/396e7b95-2fa7-480d-a281-2e58e7b57032 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 396e7b95-2fa7-480d-a281-2e58e7b57032 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/f3caf746-b852-43dd-b19a-993f961e8538 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil f3caf746-b852-43dd-b19a-993f961e8538 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/3ad2b073-5119-4119-a200-2b8ccd07ddf0 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 3ad2b073-5119-4119-a200-2b8ccd07ddf0 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/5a9f3cff-1620-454f-9512-0cf29705fad8 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 5a9f3cff-1620-454f-9512-0cf29705fad8 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/7be25ed6-1a19-44e5-9542-9e6bc316a723 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 7be25ed6-1a19-44e5-9542-9e6bc316a723 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/c9f8f213-0ab4-446f-bf15-726dd3915fee HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil c9f8f213-0ab4-446f-bf15-726dd3915fee has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2360a7fa-924e-47e0-a549-cde870454e72 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2360a7fa-924e-47e0-a549-cde870454e72 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/cf7b3ba7-2bc3-4868-bb0b-0220376bf4b2 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil cf7b3ba7-2bc3-4868-bb0b-0220376bf4b2 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/26e755b4-39de-4d97-99cf-f626671c2b36 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 26e755b4-39de-4d97-99cf-f626671c2b36 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/70eab2f7-84cc-4f0d-b0f7-3dfd56c7a7ea HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 70eab2f7-84cc-4f0d-b0f7-3dfd56c7a7ea has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/ff99227a-c188-4cd6-a9a7-1ccd40bb0dde HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil ff99227a-c188-4cd6-a9a7-1ccd40bb0dde has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/86af1dc3-5573-489e-b303-f3fdbb50816a HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 86af1dc3-5573-489e-b303-f3fdbb50816a has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/181f738a-7468-4b77-9f84-a3f6fe9675e7 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 181f738a-7468-4b77-9f84-a3f6fe9675e7 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2826da8d-9c53-496d-8fc8-e14891cce20e HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2826da8d-9c53-496d-8fc8-e14891cce20e has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/e6b57cb8-7253-47a0-bab0-8650096de084 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil e6b57cb8-7253-47a0-bab0-8650096de084 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/b8decd98-4963-4482-ac33-15f730d537ec HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil b8decd98-4963-4482-ac33-15f730d537ec has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/35a81af2-7048-4f25-ae28-c3c637225507 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 35a81af2-7048-4f25-ae28-c3c637225507 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2322a407-441c-4e9f-b72a-4ad623c52465 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2322a407-441c-4e9f-b72a-4ad623c52465 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/78708eff-eb92-421f-adf8-b4ae35ab73e5 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 78708eff-eb92-421f-adf8-b4ae35ab73e5 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/6e7c0c85-60bc-4ec3-8929-59ebf808c227 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 6e7c0c85-60bc-4ec3-8929-59ebf808c227 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/81221d23-9d0e-4b82-a21f-0238d2e3d2fc HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 81221d23-9d0e-4b82-a21f-0238d2e3d2fc has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/34c864a0-8706-4de1-8d1d-63691822a70d HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 34c864a0-8706-4de1-8d1d-63691822a70d has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/6753ce68-34b4-4a35-8301-adf4d724f13f HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 6753ce68-34b4-4a35-8301-adf4d724f13f has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/27cc0ba7-98a6-488a-bec6-8def58b4f107 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 27cc0ba7-98a6-488a-bec6-8def58b4f107 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/5a253c8a-3dcf-432e-a239-4388e7015d94 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 5a253c8a-3dcf-432e-a239-4388e7015d94 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/19466204-4856-41d6-8fac-68cec3b000fa HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 19466204-4856-41d6-8fac-68cec3b000fa has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/60c8c9d6-ef30-4ab2-b07b-390aaffba3ee HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 60c8c9d6-ef30-4ab2-b07b-390aaffba3ee has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/6e56e4b1-55a5-4eab-b0a2-142776d3486f HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 6e56e4b1-55a5-4eab-b0a2-142776d3486f has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/b3f3c245-bea8-4512-bb56-b05bb6195527 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil b3f3c245-bea8-4512-bb56-b05bb6195527 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/109dc0f7-aa79-46a2-8abd-13adbb8f048a HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 109dc0f7-aa79-46a2-8abd-13adbb8f048a has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/db57b413-0b93-4781-9d17-3850fd813f48 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil db57b413-0b93-4781-9d17-3850fd813f48 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/f480ff10-f458-4444-9357-546e529b64a6 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil f480ff10-f458-4444-9357-546e529b64a6 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2355c15c-2e5e-45e8-9542-2f00406a37bc HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2355c15c-2e5e-45e8-9542-2f00406a37bc has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/e83243e3-7cc3-4a5d-8410-39c0818f78fc HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil e83243e3-7cc3-4a5d-8410-39c0818f78fc has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/337f8151-fcd7-4362-b099-0873c4c03622 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 337f8151-fcd7-4362-b099-0873c4c03622 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/b8276a37-1963-4bda-a921-93c852cca2e4 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil b8276a37-1963-4bda-a921-93c852cca2e4 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/2559bc30-85ea-42c3-ac22-1d307655eab1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 2559bc30-85ea-42c3-ac22-1d307655eab1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/e103b8ea-42a9-49a5-b16e-8a5edbe050ab HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil e103b8ea-42a9-49a5-b16e-8a5edbe050ab has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/ce04092d-831b-4347-a514-65b13ebbde67 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil ce04092d-831b-4347-a514-65b13ebbde67 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/e8864303-4c5b-49e6-b9b7-09500b6218e1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil e8864303-4c5b-49e6-b9b7-09500b6218e1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/a4799fb9-17c9-4055-aaa1-64e0c1923ffe HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil a4799fb9-17c9-4055-aaa1-64e0c1923ffe has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/a86b4d33-9ffa-4641-9cf9-2ebdb4a9dd3c HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil a86b4d33-9ffa-4641-9cf9-2ebdb4a9dd3c has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/22d5a202-fe26-4395-89d1-a758d9fbebd1 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 22d5a202-fe26-4395-89d1-a758d9fbebd1 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/134ee79d-1cce-4712-9fb0-a97e7eceaf90 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil 134ee79d-1cce-4712-9fb0-a97e7eceaf90 has been deleted
+[04-23 20:02] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 20:02] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/ac744969-c775-4e84-a265-cb29d3ebb520 HTTP/1.1" 200 222
+[04-23 20:02] LINE 72   : INFO     Civil ac744969-c775-4e84-a265-cb29d3ebb520 has been deleted

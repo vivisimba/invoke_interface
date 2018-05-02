@@ -1,0 +1,4 @@
+[04-23 19:58] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 19:58] LINE 396  : DEBUG    http://123.206.1.151:8082 "GET /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities HTTP/1.1" 200 None
+[04-23 19:58] LINE 208  : DEBUG    Starting new HTTP connection (1): 123.206.1.151
+[04-23 19:58] LINE 396  : DEBUG    http://123.206.1.151:8082 "DELETE /api/repositories/316b7159-b022-4eb3-8be9-1d0ee90a05f3/entities/51fe4d55-bf0e-48fb-88fb-d4d7a8278ed5 HTTP/1.1" 200 249
